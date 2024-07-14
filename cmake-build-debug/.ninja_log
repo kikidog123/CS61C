@@ -1,0 +1,9 @@
+# ninja log v6
+23	288	7414312527873525	CMakeFiles/61c.dir/sp24-lab-starter/lab01/ex2_pointer_basics.c.obj	f27d946566286809
+8	293	7414312527715362	CMakeFiles/61c.dir/sp24-lab-starter/lab01/ex1_hello.c.obj	50739a40854a6311
+37	312	7414312528008878	CMakeFiles/61c.dir/sp24-lab-starter/lab01/ex3_pointers_and_functions.c.obj	a3125e429948b143
+69	359	7414312528328347	CMakeFiles/61c.dir/sp24-lab-starter/lab01/ex4_arrays_updated.c.obj	8f8623044e5cbaad
+102	392	7414312528662575	CMakeFiles/61c.dir/sp24-lab-starter/lab01/ex5_pointer_arithmetic_updated.c.obj	217faa482cfea57b
+119	418	7414312528830927	CMakeFiles/61c.dir/sp24-lab-starter/lab01/ex6_strings.c.obj	60da26cf18d9c2b
+192	475	7414312529562795	CMakeFiles/61c.dir/sp24-lab-starter/lab02/bork.c.obj	f891457d96e0e470
+230	484	7414312529939584	CMakeFiles/61c.dir/sp24-lab-starter/lab02/ex2_compiler_warnings.c.obj	de0f8d78bf0ec19a
